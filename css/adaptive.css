@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1200px) {
+.box{
+background-size: 50px;
+}
+.container{
+	border-image-source: 50%;
+}
+
+}
